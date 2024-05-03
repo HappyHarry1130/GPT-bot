@@ -1,7 +1,7 @@
 <?php
 
 // Define API key and endpoint URL
-const OPENAI_API_KEY = "key";
+const OPENAI_API_KEY = "Your API Key";
 const ENDPOINT_URL = "https://api.openai.com/v1/chat/completions";
 
 // Check if the API key is provided
